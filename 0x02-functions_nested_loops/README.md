@@ -10,3 +10,16 @@ You can only use putchar twice in your code
 
 Prototype: void print_alphabet_x10(void);
 You can only use putchar twice in your code
+
+3-islower.c : Write a function that checks for lowercase character.
+
+Prototype: int islower(int c);
+Returns 1 if c is lowercase
+Returns 0 otherwise
+
+4-isalpha.c : Write a function that checks for alphabetic character.
+
+Prototype: int isalpha(int c);
+Returns 1 if c is a letter, lowercase or uppercase
+Returns 0 otherwise
+
