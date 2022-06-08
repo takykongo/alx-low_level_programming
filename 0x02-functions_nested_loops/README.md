@@ -29,3 +29,7 @@ Prototype: int print_sign(int n);
 Returns 1 and prints + if n is greater than zero
 Returns 0 and prints 0 if n is zero
 Returns -1 and prints - if n is less than zero
+
+6-abs.c : Write a function that computes the absolute value of an integer.
+
+Prototype: int abs(int);
