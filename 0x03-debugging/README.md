@@ -9,3 +9,7 @@ You are not allowed to add or remove lines of code, you may change only one line
 
 Don’t add or remove any lines of code, as we will be checking your line count. You are only allowed to comment out existing code.
 You do not have to compile with -Wall -Werror -Wextra -pedantic for this task.
+
+2-largest_number.c : Fix the code in 2-largest_number.c so that it correctly prints out the largest of three numbers, no matter the case.
+
+
