@@ -19,4 +19,6 @@ Returns 0 otherwise
 Prototype: void print_most_numbers(void);
 Do not print 2 and 4
 
+5-more_numbers : Write a function that prints 10 times the numbers, from 0 to 14, followed by a new line.
 
+Prototype: void more_numbers(void);
